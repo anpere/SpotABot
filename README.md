@@ -12,7 +12,7 @@ SpotABot requires the chatterbotapi.py which can be [found here on github](https
 
 System:
 A chat-server allows two humans to talk to each other.
-When game.py is run, the player who ran it will be
+When judge.py is run, the player who ran it will be
 randomly assigned to talk to a chat bot, or a human.
 
 When assigned to a chat-bot, the player will communicate with
