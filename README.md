@@ -6,7 +6,7 @@ The game is written in Python
 
 
 ## Requirements 
-    SpotABot requires the chatterbotapi.py which can be [found here on github](https://github.com/pierredavidbelanger/chatter-bot-api)
+SpotABot requires the chatterbotapi.py which can be [found here on github](https://github.com/pierredavidbelanger/chatter-bot-api)
     But the API library comes with installation.
 
 
