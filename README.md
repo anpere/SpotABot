@@ -1,4 +1,4 @@
-# ${1:Project Name}
+# SpotABot
 
 A variation of Turing Test that has been adapted as
 a demonstration to show the power of modern chat-bots.
@@ -42,6 +42,7 @@ When the judge feels as though a decision as been made, they must press '^D', an
 The result of the guess is then shown on the screen
 ### Human Player
 The Human who wants to play as the Human runs:
+
     $ python player.py (host_IP_Address) (9009)
 
 ## Rules
