@@ -20,7 +20,7 @@ def chat_server():
 
     #add server socket object to the list of readable connections
     SOCKET_LIST.append(server_socket)
-
+    print "Address is:" + str(HOST)
     print "Chat server started on port " + str(PORT)
 
     while 1:
